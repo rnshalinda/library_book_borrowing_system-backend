@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: // add database URL here
+    username: // add your db username
+    password: // add your db pswd
